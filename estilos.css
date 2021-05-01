@@ -1,18 +1,9 @@
-
-
 h1 {
     color: blue;
     font: Arial;
-    font-size: large; 
+    font-size: large;
 }
 
-.classCSS{
-    color:chartreuse;
-    font-size: medium;
-    font: Arial;
-}
-
-body{
+body {
     background-color: #1f2020;
-
 }
