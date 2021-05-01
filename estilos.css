@@ -1,9 +1,23 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
 h1 {
+    padding-top: 10px;
     color: blue;
     font: Arial;
     font-size: xx-large;
+    text-align: center;
 }
 
 body {
     background-color: #1f2020;
+}
+
+div img {
+    padding: 50px;
+    padding-top: 30px;
+    margin-left: 300px;
+    justify-content: center;
 }
